@@ -78,10 +78,7 @@ GET /projects
 
 Tasks
 POST /tasks  
-GET /tasks  
-
-Messages
-GET /api/projects/:projectId/messages  
+GET /tasks   
 
 ## Background Jobs
 
